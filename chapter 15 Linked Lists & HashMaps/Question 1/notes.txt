@@ -1,0 +1,16 @@
+iterator:
+-next
+hasnext
+peek
+addhere
+delete
+-----
+linked list:
+addstart
+deletehead
+getsize
+finditem
+contains
+outputlist
+isempty
+clearlist
